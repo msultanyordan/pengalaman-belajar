@@ -9,3 +9,7 @@ Belajar Git (progress 40%)
 Belajar Git (prgress 60%)
 * soal git
 * perintah dalam git
+
+#### **22 februari  2025**<br>
+Belajar Git (prgress 100%)
+* Akhirnya selesai
